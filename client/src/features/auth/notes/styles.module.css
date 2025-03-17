@@ -1,0 +1,17 @@
+.mainContainerNotes {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 20px;
+    margin: 10px;
+    height: 90%;
+    background-color: #fff;
+    border-radius: 10px;
+}
+
+.mainContainerCard {
+    margin-top: 20px;
+    overflow: auto;
+    max-height: 9rem;
+
+}

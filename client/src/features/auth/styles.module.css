@@ -1,0 +1,46 @@
+.mainContainerLogin {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 100%;
+}
+
+.formContainerLogin {
+    width: 20rem;
+    height: 30rem;
+    border: 1px solid #d3cdcd;
+    border-radius: 20px;
+    background-color: #fff;
+    display: flex;
+    flex-direction: column;
+    padding: 2rem;
+}
+
+.containerTitleLogin {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: #9c27b0;
+}
+
+.containerInputLogin {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+}
+
+.fieldUserName {
+    padding: 1rem;
+}
+
+.fieldPassword {
+    padding: 1rem;
+}
+
+.loginIcon {
+    color: #c1c1c1;
+    font-size: 70px !important;
+}
